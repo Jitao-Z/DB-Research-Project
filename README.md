@@ -5,9 +5,9 @@ Short description: this is a database research project for analyzing diabetes co
 We will explore how diabetes has impacted the health of the Californian population from 2016 to 2022, as measured by the number of hospitalizations (short-term and long-term complications) and deaths.
 
 We will be conducting this research question in three specific directions:
-1. 
-2.
-3. 
+1. sth
+2. sth
+3. sth
 
 ## Why are we interested in this series of research questions?
 Diabetes is a chronic disease with significant health and economic burdens. As a highly populated and diverse state, California has a substantial number of diabetes cases each year. We are interested in this series of research questions because monitoring the relationship between diabetes-related mortality and hospitalizations due to the same cause can alert people to the severe consequences of this disease and emphasize the importance of proper prevention.
