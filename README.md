@@ -1,4 +1,4 @@
-# Data Base Research Project
+# Database Research Project
 Short description: this is a database research project for analyzing diabetes condition in California population
 
 ## What are our research questions?
@@ -17,4 +17,9 @@ Our research can contribute to identifying patterns related to diabetes from 201
 ## Sources of the dataset
 1. Diabetes Mortality by State (from CDC): https://www.cdc.gov/nchs/pressroom/sosmap/diabetes_mortality/diabetes.htm
 2. Rates of Preventable Hospitalizations for Selected Medical Conditions by County (from DATA.GOV): https://catalog.data.gov/dataset/rates-of-preventable-hospitalizations-for-selected-medical-conditions-by-county-lghc-indic-c0428
+
+## Contributors:
+1. Jitao Zhang
+2. Wanqing Hu
+3. Siying Liu
 
