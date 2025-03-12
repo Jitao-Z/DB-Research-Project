@@ -5,7 +5,7 @@ Short description: this is a database research project for analyzing diabetes co
 We will explore how diabetes has impacted the health of the Californian population from 2016 to 2022, as measured by the number of hospitalizations and deaths.
 
 We will be conducting this research question in three specific directions:
-1. sth
+1. Is there a relationship between the number of deaths due to diabetes in California with respect to the number of hospitalizations related to diabetes and the at-risk population using data from 2016 to 2022?
 2. sth
 3. sth
 
