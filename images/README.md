@@ -1,0 +1,1 @@
+This folder is specifically for storing all the images.
