@@ -1,0 +1,237 @@
+Year,County,PQI,PQIDescription,Count_ICD10,Population_ICD10,ObsRate_ICD10
+2022,Alameda,1,Diabetes Short-term Complications,654,"1,311,253",49.9
+2022,Alameda,3,Diabetes Long-term Complications,821,"1,311,253",62.6
+2022,Alameda,14,Uncontrolled Diabetes,297,"1,311,253",22.7
+2022,Alameda,93,Diabetes Composite,"1,945","1,311,253",148.3
+2022,Alpine,1,Diabetes Short-term Complications,0,998,0.0
+2022,Alpine,3,Diabetes Long-term Complications,0,998,0.0
+2022,Alpine,14,Uncontrolled Diabetes,0,998,0.0
+2022,Alpine,93,Diabetes Composite,0,998,0.0
+2022,Amador,1,Diabetes Short-term Complications,31,"35,068",88.4
+2022,Amador,3,Diabetes Long-term Complications,32,"35,068",91.3
+2022,Amador,14,Uncontrolled Diabetes,9,"35,068",25.7
+2022,Amador,93,Diabetes Composite,76,"35,068",216.7
+2022,Butte,1,Diabetes Short-term Complications,198,"165,784",119.4
+2022,Butte,3,Diabetes Long-term Complications,180,"165,784",108.6
+2022,Butte,14,Uncontrolled Diabetes,100,"165,784",60.3
+2022,Butte,93,Diabetes Composite,522,"165,784",314.9
+2022,Calaveras,1,Diabetes Short-term Complications,24,"38,508",62.3
+2022,Calaveras,3,Diabetes Long-term Complications,31,"38,508",80.5
+2022,Calaveras,14,Uncontrolled Diabetes,5,"38,508",13.0
+2022,Calaveras,93,Diabetes Composite,70,"38,508",181.8
+2022,Colusa,1,Diabetes Short-term Complications,7,"16,137",43.4
+2022,Colusa,3,Diabetes Long-term Complications,12,"16,137",74.4
+2022,Colusa,14,Uncontrolled Diabetes,10,"16,137",62.0
+2022,Colusa,93,Diabetes Composite,32,"16,137",198.3
+2022,Contra Costa,1,Diabetes Short-term Complications,484,"906,227",53.4
+2022,Contra Costa,3,Diabetes Long-term Complications,720,"906,227",79.5
+2022,Contra Costa,14,Uncontrolled Diabetes,182,"906,227",20.1
+2022,Contra Costa,93,Diabetes Composite,"1,453","906,227",160.3
+2022,Del Norte,1,Diabetes Short-term Complications,12,"21,423",56.0
+2022,Del Norte,3,Diabetes Long-term Complications,24,"21,423",112.0
+2022,Del Norte,14,Uncontrolled Diabetes,4,"21,423",18.7
+2022,Del Norte,93,Diabetes Composite,43,"21,423",200.7
+2022,El Dorado,1,Diabetes Short-term Complications,107,"155,421",68.8
+2022,El Dorado,3,Diabetes Long-term Complications,86,"155,421",55.3
+2022,El Dorado,14,Uncontrolled Diabetes,22,"155,421",14.2
+2022,El Dorado,93,Diabetes Composite,235,"155,421",151.2
+2022,Fresno,1,Diabetes Short-term Complications,825,"734,510",112.3
+2022,Fresno,3,Diabetes Long-term Complications,"1,157","734,510",157.5
+2022,Fresno,14,Uncontrolled Diabetes,304,"734,510",41.4
+2022,Fresno,93,Diabetes Composite,"2,452","734,510",333.8
+2022,Glenn,1,Diabetes Short-term Complications,20,"20,780",96.2
+2022,Glenn,3,Diabetes Long-term Complications,24,"20,780",115.5
+2022,Glenn,14,Uncontrolled Diabetes,9,"20,780",43.3
+2022,Glenn,93,Diabetes Composite,55,"20,780",264.7
+2022,Humboldt,1,Diabetes Short-term Complications,63,"110,011",57.3
+2022,Humboldt,3,Diabetes Long-term Complications,99,"110,011",90.0
+2022,Humboldt,14,Uncontrolled Diabetes,11,"110,011",10.0
+2022,Humboldt,93,Diabetes Composite,191,"110,011",173.6
+2022,Imperial,1,Diabetes Short-term Complications,117,"128,478",91.1
+2022,Imperial,3,Diabetes Long-term Complications,167,"128,478",130.0
+2022,Imperial,14,Uncontrolled Diabetes,31,"128,478",24.1
+2022,Imperial,93,Diabetes Composite,335,"128,478",260.7
+2022,Inyo,1,Diabetes Short-term Complications,6,"14,942",40.2
+2022,Inyo,3,Diabetes Long-term Complications,14,"14,942",93.7
+2022,Inyo,14,Uncontrolled Diabetes,3,"14,942",20.1
+2022,Inyo,93,Diabetes Composite,24,"14,942",160.6
+2022,Kern,1,Diabetes Short-term Complications,774,"655,754",118.0
+2022,Kern,3,Diabetes Long-term Complications,783,"655,754",119.4
+2022,Kern,14,Uncontrolled Diabetes,167,"655,754",25.5
+2022,Kern,93,Diabetes Composite,"1,841","655,754",280.7
+2022,Kings,1,Diabetes Short-term Complications,111,"112,177",99.0
+2022,Kings,3,Diabetes Long-term Complications,120,"112,177",107.0
+2022,Kings,14,Uncontrolled Diabetes,36,"112,177",32.1
+2022,Kings,93,Diabetes Composite,288,"112,177",256.7
+2022,Lake,1,Diabetes Short-term Complications,44,"53,338",82.5
+2022,Lake,3,Diabetes Long-term Complications,62,"53,338",116.2
+2022,Lake,14,Uncontrolled Diabetes,13,"53,338",24.4
+2022,Lake,93,Diabetes Composite,127,"53,338",238.1
+2022,Lassen,1,Diabetes Short-term Complications,11,"24,446",45.0
+2022,Lassen,3,Diabetes Long-term Complications,16,"24,446",65.5
+2022,Lassen,14,Uncontrolled Diabetes,1,"24,446",4.1
+2022,Lassen,93,Diabetes Composite,28,"24,446",114.5
+2022,Los Angeles,1,Diabetes Short-term Complications,"4,895","7,737,357",63.3
+2022,Los Angeles,3,Diabetes Long-term Complications,"8,312","7,737,357",107.4
+2022,Los Angeles,14,Uncontrolled Diabetes,"2,494","7,737,357",32.2
+2022,Los Angeles,93,Diabetes Composite,"16,960","7,737,357",219.2
+2022,Madera,1,Diabetes Short-term Complications,87,"116,890",74.4
+2022,Madera,3,Diabetes Long-term Complications,183,"116,890",156.6
+2022,Madera,14,Uncontrolled Diabetes,22,"116,890",18.8
+2022,Madera,93,Diabetes Composite,320,"116,890",273.8
+2022,Marin,1,Diabetes Short-term Complications,68,"207,716",32.7
+2022,Marin,3,Diabetes Long-term Complications,73,"207,716",35.1
+2022,Marin,14,Uncontrolled Diabetes,32,"207,716",15.4
+2022,Marin,93,Diabetes Composite,187,"207,716",90.0
+2022,Mariposa,1,Diabetes Short-term Complications,5,"14,037",35.6
+2022,Mariposa,3,Diabetes Long-term Complications,11,"14,037",78.4
+2022,Mariposa,14,Uncontrolled Diabetes,6,"14,037",42.7
+2022,Mariposa,93,Diabetes Composite,24,"14,037",171.0
+2022,Mendocino,1,Diabetes Short-term Complications,47,"71,066",66.1
+2022,Mendocino,3,Diabetes Long-term Complications,54,"71,066",76.0
+2022,Mendocino,14,Uncontrolled Diabetes,7,"71,066",9.8
+2022,Mendocino,93,Diabetes Composite,117,"71,066",164.6
+2022,Merced,1,Diabetes Short-term Complications,235,"207,099",113.5
+2022,Merced,3,Diabetes Long-term Complications,316,"207,099",152.6
+2022,Merced,14,Uncontrolled Diabetes,67,"207,099",32.4
+2022,Merced,93,Diabetes Composite,680,"207,099",328.3
+2022,Modoc,1,Diabetes Short-term Complications,2,"6,957",28.7
+2022,Modoc,3,Diabetes Long-term Complications,2,"6,957",28.7
+2022,Modoc,14,Uncontrolled Diabetes,1,"6,957",14.4
+2022,Modoc,93,Diabetes Composite,5,"6,957",71.9
+2022,Mono,1,Diabetes Short-term Complications,5,"10,782",46.4
+2022,Mono,3,Diabetes Long-term Complications,4,"10,782",37.1
+2022,Mono,14,Uncontrolled Diabetes,0,"10,782",0.0
+2022,Mono,93,Diabetes Composite,11,"10,782",102.0
+2022,Monterey,1,Diabetes Short-term Complications,212,"322,881",65.7
+2022,Monterey,3,Diabetes Long-term Complications,324,"322,881",100.3
+2022,Monterey,14,Uncontrolled Diabetes,108,"322,881",33.4
+2022,Monterey,93,Diabetes Composite,694,"322,881",214.9
+2022,Napa,1,Diabetes Short-term Complications,46,"108,501",42.4
+2022,Napa,3,Diabetes Long-term Complications,60,"108,501",55.3
+2022,Napa,14,Uncontrolled Diabetes,14,"108,501",12.9
+2022,Napa,93,Diabetes Composite,138,"108,501",127.2
+2022,Nevada,1,Diabetes Short-term Complications,43,"85,163",50.5
+2022,Nevada,3,Diabetes Long-term Complications,60,"85,163",70.5
+2022,Nevada,14,Uncontrolled Diabetes,23,"85,163",27.0
+2022,Nevada,93,Diabetes Composite,141,"85,163",165.6
+2022,Orange,1,Diabetes Short-term Complications,"1,017","2,496,667",40.7
+2022,Orange,3,Diabetes Long-term Complications,"2,105","2,496,667",84.3
+2022,Orange,14,Uncontrolled Diabetes,570,"2,496,667",22.8
+2022,Orange,93,Diabetes Composite,"3,969","2,496,667",159.0
+2022,Placer,1,Diabetes Short-term Complications,135,"327,593",41.2
+2022,Placer,3,Diabetes Long-term Complications,204,"327,593",62.3
+2022,Placer,14,Uncontrolled Diabetes,55,"327,593",16.8
+2022,Placer,93,Diabetes Composite,427,"327,593",130.3
+2022,Plumas,1,Diabetes Short-term Complications,8,"16,081",49.7
+2022,Plumas,3,Diabetes Long-term Complications,7,"16,081",43.5
+2022,Plumas,14,Uncontrolled Diabetes,2,"16,081",12.4
+2022,Plumas,93,Diabetes Composite,19,"16,081",118.2
+2022,Riverside,1,Diabetes Short-term Complications,"1,476","1,880,349",78.5
+2022,Riverside,3,Diabetes Long-term Complications,"2,157","1,880,349",114.7
+2022,Riverside,14,Uncontrolled Diabetes,537,"1,880,349",28.6
+2022,Riverside,93,Diabetes Composite,"4,467","1,880,349",237.6
+2022,Sacramento,1,Diabetes Short-term Complications,"1,110","1,225,015",90.6
+2022,Sacramento,3,Diabetes Long-term Complications,"1,054","1,225,015",86.0
+2022,Sacramento,14,Uncontrolled Diabetes,304,"1,225,015",24.8
+2022,Sacramento,93,Diabetes Composite,"2,739","1,225,015",223.6
+2022,San Benito,1,Diabetes Short-term Complications,31,"50,683",61.2
+2022,San Benito,3,Diabetes Long-term Complications,45,"50,683",88.8
+2022,San Benito,14,Uncontrolled Diabetes,16,"50,683",31.6
+2022,San Benito,93,Diabetes Composite,100,"50,683",197.3
+2022,San Bernardino,1,Diabetes Short-term Complications,"1,799","1,635,914",110.0
+2022,San Bernardino,3,Diabetes Long-term Complications,"1,997","1,635,914",122.1
+2022,San Bernardino,14,Uncontrolled Diabetes,543,"1,635,914",33.2
+2022,San Bernardino,93,Diabetes Composite,"4,663","1,635,914",285.0
+2022,San Diego,1,Diabetes Short-term Complications,"1,616","2,596,582",62.2
+2022,San Diego,3,Diabetes Long-term Complications,"2,591","2,596,582",99.8
+2022,San Diego,14,Uncontrolled Diabetes,683,"2,596,582",26.3
+2022,San Diego,93,Diabetes Composite,"5,217","2,596,582",200.9
+2022,San Francisco,1,Diabetes Short-term Complications,309,"697,737",44.3
+2022,San Francisco,3,Diabetes Long-term Complications,412,"697,737",59.0
+2022,San Francisco,14,Uncontrolled Diabetes,151,"697,737",21.6
+2022,San Francisco,93,Diabetes Composite,936,"697,737",134.1
+2022,San Joaquin,1,Diabetes Short-term Complications,595,"586,031",101.5
+2022,San Joaquin,3,Diabetes Long-term Complications,526,"586,031",89.8
+2022,San Joaquin,14,Uncontrolled Diabetes,190,"586,031",32.4
+2022,San Joaquin,93,Diabetes Composite,"1,458","586,031",248.8
+2022,San Luis Obispo,1,Diabetes Short-term Complications,120,"234,072",51.3
+2022,San Luis Obispo,3,Diabetes Long-term Complications,161,"234,072",68.8
+2022,San Luis Obispo,14,Uncontrolled Diabetes,37,"234,072",15.8
+2022,San Luis Obispo,93,Diabetes Composite,330,"234,072",141.0
+2022,San Mateo,1,Diabetes Short-term Complications,213,"588,683",36.2
+2022,San Mateo,3,Diabetes Long-term Complications,316,"588,683",53.7
+2022,San Mateo,14,Uncontrolled Diabetes,106,"588,683",18.0
+2022,San Mateo,93,Diabetes Composite,685,"588,683",116.4
+2022,Santa Barbara,1,Diabetes Short-term Complications,167,"346,432",48.2
+2022,Santa Barbara,3,Diabetes Long-term Complications,224,"346,432",64.7
+2022,Santa Barbara,14,Uncontrolled Diabetes,59,"346,432",17.0
+2022,Santa Barbara,93,Diabetes Composite,471,"346,432",136.0
+2022,Santa Clara,1,Diabetes Short-term Complications,626,"1,490,785",42.0
+2022,Santa Clara,3,Diabetes Long-term Complications,914,"1,490,785",61.3
+2022,Santa Clara,14,Uncontrolled Diabetes,324,"1,490,785",21.7
+2022,Santa Clara,93,Diabetes Composite,"2,044","1,490,785",137.1
+2022,Santa Cruz,1,Diabetes Short-term Complications,94,"216,642",43.4
+2022,Santa Cruz,3,Diabetes Long-term Complications,152,"216,642",70.2
+2022,Santa Cruz,14,Uncontrolled Diabetes,36,"216,642",16.6
+2022,Santa Cruz,93,Diabetes Composite,314,"216,642",144.9
+2022,Shasta,1,Diabetes Short-term Complications,155,"142,098",109.1
+2022,Shasta,3,Diabetes Long-term Complications,138,"142,098",97.1
+2022,Shasta,14,Uncontrolled Diabetes,45,"142,098",31.7
+2022,Shasta,93,Diabetes Composite,369,"142,098",259.7
+2022,Sierra,1,Diabetes Short-term Complications,0,"2,684",0.0
+2022,Sierra,3,Diabetes Long-term Complications,1,"2,684",37.3
+2022,Sierra,14,Uncontrolled Diabetes,0,"2,684",0.0
+2022,Sierra,93,Diabetes Composite,2,"2,684",74.5
+2022,Siskiyou,1,Diabetes Short-term Complications,33,"34,974",94.4
+2022,Siskiyou,3,Diabetes Long-term Complications,17,"34,974",48.6
+2022,Siskiyou,14,Uncontrolled Diabetes,6,"34,974",17.2
+2022,Siskiyou,93,Diabetes Composite,66,"34,974",188.7
+2022,Solano,1,Diabetes Short-term Complications,196,"351,591",55.7
+2022,Solano,3,Diabetes Long-term Complications,312,"351,591",88.7
+2022,Solano,14,Uncontrolled Diabetes,70,"351,591",19.9
+2022,Solano,93,Diabetes Composite,668,"351,591",190.0
+2022,Sonoma,1,Diabetes Short-term Complications,189,"392,503",48.2
+2022,Sonoma,3,Diabetes Long-term Complications,254,"392,503",64.7
+2022,Sonoma,14,Uncontrolled Diabetes,73,"392,503",18.6
+2022,Sonoma,93,Diabetes Composite,569,"392,503",145.0
+2022,Stanislaus,1,Diabetes Short-term Complications,333,"405,382",82.1
+2022,Stanislaus,3,Diabetes Long-term Complications,521,"405,382",128.5
+2022,Stanislaus,14,Uncontrolled Diabetes,144,"405,382",35.5
+2022,Stanislaus,93,Diabetes Composite,"1,097","405,382",270.6
+2022,STATEWIDE,1,Diabetes Short-term Complications,"20,479","30,523,315",67.1
+2022,STATEWIDE,3,Diabetes Long-term Complications,"29,327","30,523,315",96.1
+2022,STATEWIDE,14,Uncontrolled Diabetes,"8,302","30,523,315",27.2
+2022,STATEWIDE,93,Diabetes Composite,"62,790","30,523,315",205.7
+2022,Sutter,1,Diabetes Short-term Complications,80,"73,900",108.3
+2022,Sutter,3,Diabetes Long-term Complications,84,"73,900",113.7
+2022,Sutter,14,Uncontrolled Diabetes,27,"73,900",36.5
+2022,Sutter,93,Diabetes Composite,208,"73,900",281.5
+2022,Tehama,1,Diabetes Short-term Complications,61,"49,780",122.5
+2022,Tehama,3,Diabetes Long-term Complications,41,"49,780",82.4
+2022,Tehama,14,Uncontrolled Diabetes,9,"49,780",18.1
+2022,Tehama,93,Diabetes Composite,122,"49,780",245.1
+2022,Trinity,1,Diabetes Short-term Complications,4,"13,039",30.7
+2022,Trinity,3,Diabetes Long-term Complications,8,"13,039",61.4
+2022,Trinity,14,Uncontrolled Diabetes,1,"13,039",7.7
+2022,Trinity,93,Diabetes Composite,15,"13,039",115.0
+2022,Tulare,1,Diabetes Short-term Complications,369,"336,253",109.7
+2022,Tulare,3,Diabetes Long-term Complications,498,"336,253",148.1
+2022,Tulare,14,Uncontrolled Diabetes,113,"336,253",33.6
+2022,Tulare,93,Diabetes Composite,"1,032","336,253",306.9
+2022,Tuolumne,1,Diabetes Short-term Complications,35,"45,145",77.5
+2022,Tuolumne,3,Diabetes Long-term Complications,48,"45,145",106.3
+2022,Tuolumne,14,Uncontrolled Diabetes,7,"45,145",15.5
+2022,Tuolumne,93,Diabetes Composite,98,"45,145",217.1
+2022,Ventura,1,Diabetes Short-term Complications,388,"652,677",59.4
+2022,Ventura,3,Diabetes Long-term Complications,622,"652,677",95.3
+2022,Ventura,14,Uncontrolled Diabetes,168,"652,677",25.7
+2022,Ventura,93,Diabetes Composite,"1,262","652,677",193.4
+2022,Yolo,1,Diabetes Short-term Complications,98,"178,722",54.8
+2022,Yolo,3,Diabetes Long-term Complications,93,"178,722",52.0
+2022,Yolo,14,Uncontrolled Diabetes,23,"178,722",12.9
+2022,Yolo,93,Diabetes Composite,239,"178,722",133.7
+2022,Yuba,1,Diabetes Short-term Complications,89,"61,597",144.5
+2022,Yuba,3,Diabetes Long-term Complications,78,"61,597",126.6
+2022,Yuba,14,Uncontrolled Diabetes,25,"61,597",40.6
+2022,Yuba,93,Diabetes Composite,210,"61,597",340.9
