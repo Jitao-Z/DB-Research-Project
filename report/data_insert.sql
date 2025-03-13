@@ -1,3 +1,27 @@
+CREATE TABLE california (
+    year int PRIMARY NOT NULL,
+    state varchar(2) NOT NULL CHECK (state = 'CA'),
+    rate float NOT NULL,
+    deaths int NOT NULL,
+
+    UNIQUE (year)
+)
+
+CREATE TABLE counties (
+    year int NOT NULL,
+    county varchar(255) NOT NULL,
+    PQI int NOT NULL,
+    PQIDescription varchar(255) NOT NULL,
+    count_ICD10 int NOT NULL,
+    population_ICD10 int NOT NULL,
+    ObsRate_ICD10 FLOAT NOT NULL,
+
+    PRIMARY KEY (year, county),
+
+    FOREIGN KEY (year) REFERENCES california(year)
+    ON DELETE CASCADE
+)
+
 INSERT INTO california VALUES (2022, 'CA', 25.0, 11618);
 INSERT INTO california VALUES (2021, 'CA', 25.5, 11440);
 INSERT INTO california VALUES (2020, 'CA', 25.4, 11642);
