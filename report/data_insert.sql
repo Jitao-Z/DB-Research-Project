@@ -6,8 +6,7 @@ CREATE TABLE california (
     state varchar(2) NOT NULL CHECK (state = 'CA'),
     rate float NOT NULL,
     deaths int NOT NULL,
-    primary key (year),
-    UNIQUE (year)
+    primary key (year)
 );
 
 CREATE TABLE counties (
