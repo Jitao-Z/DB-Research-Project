@@ -2,11 +2,11 @@ drop table california;
 drop table counties;
 
 CREATE TABLE california (
-    year int PRIMARY NOT NULL,
+    year int NOT NULL,
     state varchar(2) NOT NULL CHECK (state = 'CA'),
     rate float NOT NULL,
     deaths int NOT NULL,
-
+    primary key (year),
     UNIQUE (year)
 );
 
