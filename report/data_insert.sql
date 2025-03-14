@@ -1,27 +1,28 @@
-drop table california;
-drop table counties;
+drop table california cascade constraints;
+drop table counties cascade constraints;
+purge recyclebin;
 
 CREATE TABLE california (
-    year int NOT NULL,
-    state varchar(2) NOT NULL CHECK (state = 'CA'),
-    rate float NOT NULL,
-    deaths int NOT NULL,
+    year int not null,
+    state varchar(2) not null check (state = 'CA'),
+    rate float not null,
+    deaths int not null,
     primary key (year)
 );
 
 CREATE TABLE counties (
-    year int NOT NULL,
-    county varchar(255) NOT NULL,
-    PQI int NOT NULL,
-    PQIDescription varchar(255) NOT NULL,
-    count_ICD10 int NOT NULL,
-    population_ICD10 int NOT NULL,
-    ObsRate_ICD10 FLOAT NOT NULL,
+    year int not null,
+    county varchar(255) not null,
+    PQI int not null,
+    PQIDescription varchar(255) not null,
+    count_ICD10 int not null,
+    population_ICD10 int not null,
+    ObsRate_ICD10 FLOAT not null,
 
-    PRIMARY KEY (year, county),
+    primary key (year, county),
 
-    FOREIGN KEY (year) REFERENCES california(year)
-    ON DELETE CASCADE
+    foreign key (year) references california(year)
+    on delete cascade
 );
 
 INSERT INTO california VALUES (2022, 'CA', 25.0, 11618);
