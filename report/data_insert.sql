@@ -17,7 +17,7 @@ CREATE TABLE counties (
     count_ICD10 int not null,
     population_ICD10 int not null,
     ObsRate_ICD10 FLOAT not null,
-    primary key (year, county),
+    primary key (year, county,PQIDescription),
     foreign key (year) references california(year) on delete cascade);
 
 INSERT INTO california VALUES (2022, 'CA', 25.0, 11618);
