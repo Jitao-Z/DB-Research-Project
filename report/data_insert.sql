@@ -7,8 +7,7 @@ CREATE TABLE california (
     state varchar(2) not null check (state = 'CA'),
     rate float not null,
     deaths int not null,
-    primary key (year)
-);
+    primary key (year));
 
 CREATE TABLE counties (
     year int not null,
@@ -18,12 +17,8 @@ CREATE TABLE counties (
     count_ICD10 int not null,
     population_ICD10 int not null,
     ObsRate_ICD10 FLOAT not null,
-
     primary key (year, county),
-
-    foreign key (year) references california(year)
-    on delete cascade
-);
+    foreign key (year) references california(year) on delete cascade);
 
 INSERT INTO california VALUES (2022, 'CA', 25.0, 11618);
 INSERT INTO california VALUES (2021, 'CA', 25.5, 11440);
