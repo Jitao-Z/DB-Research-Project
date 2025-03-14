@@ -6,8 +6,8 @@ We will explore how diabetes has impacted the health of the Californian populati
 
 We will be conducting this research question in three specific directions:
 1. Is there a relationship between the number of deaths due to diabetes in California with respect to the number of hospitalizations related to diabetes and the at-risk population using data from 2016 to 2022?
-2. sth
-3. sth
+2. Is there any county that had the highest mean diabetes-related hospitalization rate for more than three years between 2016 and 2022? 
+3. Among short-term complications, long-term complications, uncontrolled diabetes, and composite diabetes-related conditions, which category is the largest proportion in diabetes-related mortality in California from 2016 to 2022?
 
 ## Why are we interested in this series of research questions?
 Diabetes is a chronic disease with significant health and economic burdens. As a highly populated and diverse state, California has a substantial number of diabetes cases each year. We are interested in this series of research questions because monitoring the relationship between diabetes-related mortality and hospitalizations due to the same cause can alert people to the severe consequences of this disease and emphasize the importance of proper prevention.
