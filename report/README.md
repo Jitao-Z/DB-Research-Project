@@ -17,11 +17,11 @@ How diabetes has impacted the health of the Californian population from 2016 to 
 
 ## About files
 ### Required external libraries for code files:
-oracledb
-pandas
-statsmodels.api
-matplotlib.pyplot
-seaborn
+oracledb  
+pandas  
+statsmodels.api  
+matplotlib.pyplot  
+seaborn  
 numpy
 
 ### File documentation:
