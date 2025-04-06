@@ -29,7 +29,8 @@ numpy
 2. `pathway1.ipynb`: pathway 1 code file, containing code to pull relevant data from the database and the following analysis using SQL or/and python
 3. `q2_analysis.ipynb`: pathway 2 code file, containing code to pull relevant data from the database and the following analysis using SQL or/and python
 4. `research_3.ipynb`: pathway 3 code file, containing code to pull relevant data from the database and the following analysis using SQL or/and python
-5. `CPSC 368 Final Research Paper.pdf`: final research paper
+5. `EDA.ipynb`: Exploratory Data Analysis code file, with visualizations for preliminary results
+6. `CPSC 368 Final Research Paper.pdf`: final research paper
 
 The code files for three pathways can be run independently, no sequence is required.
 
