@@ -26,11 +26,12 @@ numpy
 
 ### File documentation:
 1. `data_insert_u.ipynb`: code to dynamically generate INSERT statements needed for inserting data into the database
-2. `pathway1.ipynb`: pathway 1 code file, containing code to pull relevant data from the database and the following analysis using SQL or/and python
-3. `q2_analysis.ipynb`: pathway 2 code file, containing code to pull relevant data from the database and the following analysis using SQL or/and python
-4. `research_3.ipynb`: pathway 3 code file, containing code to pull relevant data from the database and the following analysis using SQL or/and python
-5. `EDA.ipynb`: Exploratory Data Analysis code file, with visualizations for preliminary results
-6. `CPSC 368 Final Research Paper.pdf`: final research paper
+2. `data_insert.sql`: sql script that loads data into the database
+3. `pathway1.ipynb`: pathway 1 code file, containing code to pull relevant data from the database and the following analysis using SQL or/and python
+4. `q2_analysis.ipynb`: pathway 2 code file, containing code to pull relevant data from the database and the following analysis using SQL or/and python
+5. `research_3.ipynb`: pathway 3 code file, containing code to pull relevant data from the database and the following analysis using SQL or/and python
+6. `EDA.ipynb`: Exploratory Data Analysis code file, with visualizations for preliminary results
+7. `CPSC 368 Final Research Paper.pdf`: final research paper
 
 The code files for three pathways can be run independently, no sequence is required.
 
